@@ -6,7 +6,7 @@ If the user want to run the application, they can do so in xampp server preferra
 The user need to create a database with name "ourmail" and import the datafiles provided in the "ourmail" database. 
 Copy the entire folder to a directly named "htdocs" in the "xampp" directory. 
 Start Apache and MySQL on Xampp control panel.
-open your favorite browser and acess the application through "<hostname>/<foldername>/"
+open your favorite browser and acess the application.
   
 Happy Coding!
   
